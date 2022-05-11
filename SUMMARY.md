@@ -1,3 +1,17 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Introduction-of-Python-for-Data-Science](README.md)
+* [1. 安装工作环境](1.-an-zhuang-gong-zuo-huan-jing/README.md)
+  * [1.1. 建立编程环境的目标](1.-an-zhuang-gong-zuo-huan-jing/1.1.-jian-li-bian-cheng-huan-jing-de-mu-biao.md)
+  * [1.2. 安装Python程序](1.-an-zhuang-gong-zuo-huan-jing/1.2.-an-zhuang-python-cheng-xu.md)
+  * [1.3. 配置Windows/macOS个人计算机的工作环境](1.-an-zhuang-gong-zuo-huan-jing/1.3.-pei-zhi-windowsmacos-ge-ren-ji-suan-ji-de-gong-zuo-huan-jing.md)
+  * [1.4. 配置Linux计算机的工作环境](1.-an-zhuang-gong-zuo-huan-jing/1.4.-pei-zhi-linux-ji-suan-ji-de-gong-zuo-huan-jing.md)
+* [2. 了解Python语言的用法](2.-le-jie-python-yu-yan-de-yong-fa/README.md)
+  * [2.1. 程序的基本结构](2.-le-jie-python-yu-yan-de-yong-fa/2.1.-cheng-xu-de-ji-ben-jie-gou.md)
+  * [2.2. 变量和表达式](2.-le-jie-python-yu-yan-de-yong-fa/2.2.-bian-liang-he-biao-da-shi.md)
+  * [2.3. 面向对象](2.-le-jie-python-yu-yan-de-yong-fa/2.3.-mian-xiang-dui-xiang.md)
+  * [2.4. 控制结构](2.-le-jie-python-yu-yan-de-yong-fa/2.4.-kong-zhi-jie-gou.md)
+  * [2.5. 数据结构](2.-le-jie-python-yu-yan-de-yong-fa/2.5.-shu-ju-jie-gou.md)
+* [3. 使用Python语言实现科学计算](3.-shi-yong-python-yu-yan-shi-xian-ke-xue-ji-suan/README.md)
+  * [3.1. 使用Numpy计算线性代数](3.-shi-yong-python-yu-yan-shi-xian-ke-xue-ji-suan/3.1.-shi-yong-numpy-ji-suan-xian-xing-dai-shu.md)
+  * [3.2. 使用Pandas处理表格](3.-shi-yong-python-yu-yan-shi-xian-ke-xue-ji-suan/3.2.-shi-yong-pandas-chu-li-biao-ge.md)
